@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-storyblok-boilerplate",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.12",
+    "gridsome-source-storyblok": "^0.2.1"
+  }
+}
